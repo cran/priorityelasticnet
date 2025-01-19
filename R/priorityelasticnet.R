@@ -51,6 +51,7 @@
 #'
 #' @import glmnet
 #' @import survival
+#' @import glmSparseNet
 #' @importFrom checkmate assert_logical
 #' @importFrom stats complete.cases coef model.matrix
 #' @importFrom utils packageVersion

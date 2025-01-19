@@ -422,8 +422,8 @@ This example demonstrates the flexibility of the `priorityelasticnet` package in
 The Kaplan-Meier curve in this example is used to visualize and compare survival probabilities between two risk groups (High Risk and Low Risk) identified using the *priorityelasticnet* Cox proportional hazards model and using  function *separate2GroupsCox* from `glmSparseNet` package.
 
 
+```{r, eval = requireNamespace("glmSparseNet", quietly = TRUE)}
 
-```{r}
 library(glmSparseNet)
 
 # Extract coefficients from the fitted Cox model

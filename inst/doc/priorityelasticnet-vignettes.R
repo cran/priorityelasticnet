@@ -13,7 +13,7 @@ if (!requireNamespace("priorityelasticnet", quietly = TRUE)) {
 }
 
 ## ----eval=FALSE---------------------------------------------------------------
-#  install.packages("priorityelasticnet")
+# install.packages("priorityelasticnet")
 
 ## -----------------------------------------------------------------------------
 # Simulate some data
@@ -139,7 +139,8 @@ fit_cox$coefficients
 ## -----------------------------------------------------------------------------
 fit_cox$lambda.min
 
-## -----------------------------------------------------------------------------
+## ----eval = requireNamespace("glmSparseNet", quietly = TRUE)------------------
+
 library(glmSparseNet)
 
 # Extract coefficients from the fitted Cox model
@@ -314,7 +315,7 @@ fit_cvm <-
 fit_cvm
 
 ## ----eval = FALSE-------------------------------------------------------------
-#  weightedThreshold(object = fit_bin)
+# weightedThreshold(object = fit_bin)
 
 ## -----------------------------------------------------------------------------
 coef(fit_bin)

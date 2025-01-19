@@ -2,7 +2,7 @@ Package: priorityelasticnet
 Type: Package
 Title: Comprehensive Analysis of Multi-Omics Data Using an Offset-Based
         Method
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: c(
     person(given = "Laila Qadir", family = "Musib", role = c("aut", "cre"), 
            email = "statleila98@gmail.com"),
@@ -18,17 +18,17 @@ License: GPL-3
 Depends: R (>= 3.5.0)
 Imports: survival, glmnet, utils, checkmate, shiny, tidyr, dplyr,
         caret, pROC, PRROC, plotrix, ggplot2, magrittr, tibble, broom,
-        cvms
-Suggests: ipflasso, rlang, knitr, rmarkdown, glmSparseNet
+        cvms, glmSparseNet
+Suggests: ipflasso, rlang, knitr, rmarkdown
 VignetteBuilder: knitr
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2025-01-10 10:30:18 UTC; statl
+Packaged: 2025-01-18 13:41:04 UTC; selcukkorkmaz
 Author: Laila Qadir Musib [aut, cre],
   Eunice Carrasquinha [aut],
   Helena Mouriño [aut]
 Maintainer: Laila Qadir Musib <statleila98@gmail.com>
 Repository: CRAN
-Date/Publication: 2025-01-13 17:30:13 UTC
+Date/Publication: 2025-01-19 22:40:05 UTC

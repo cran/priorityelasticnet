@@ -1,5 +1,5 @@
-81a3c416deaec91112488e2119907212 *DESCRIPTION
-68adbfac9316d8d53b0beb4fc5f00c4d *NAMESPACE
+9f4001599b5d63e4a20ba20a19d7069e *DESCRIPTION
+c61e9006248c591a9fac5d4d40e7a03e *NAMESPACE
 2a4899d762ca5ff7e8543b5b41e3a034 *R/calculate_offsets.R
 f827341d830a7ba2754973d4c5421113 *R/coef.priorityelasticnet.R
 aa9580f106bce7490359daef821aafac *R/compare_boolean.R
@@ -10,13 +10,13 @@ cc564277b9b2c4377a72603895ef0073 *R/make_imputation_available_cases.R
 8ee690fe536794cb130113f2693483d6 *R/make_imputation_model.R
 cb552f8ec91eca3cf1b78d1d60432e5a *R/missing.control.R
 0b2aea4022c62b54e4cd397e4557b6ce *R/predict.priorityelasticnet.R
-e7c87f7ee23823fc868d1e63ff8ee2f1 *R/priorityelasticnet.R
+3b1c3a2fe8dad66c4d41a7c217ed232c *R/priorityelasticnet.R
 a32660864e3ff16bfa471175ffba53e1 *R/weightedThreshold.R
-4f6e7f61017cb3f50d82d6c1f6f12e30 *build/vignette.rds
+4088949761c0ec5200105503b9dd55c4 *build/vignette.rds
 8b4830667e17a47044c1afed5eaf13f2 *data/Pen_Data.rda
-593091233fd0a1795d4e48034ffcef87 *inst/doc/priorityelasticnet-vignettes.R
-f023cfa6968ed1c0e19e19ae7c1bcab8 *inst/doc/priorityelasticnet-vignettes.Rmd
-dcbbc8fd1ebbec7539eacf7a24d772db *inst/doc/priorityelasticnet-vignettes.html
+95a2dda84bc6c4b8c3cfc73a8e9faac0 *inst/doc/priorityelasticnet-vignettes.R
+1daebaa8014e77d1ede7d6217771aa11 *inst/doc/priorityelasticnet-vignettes.Rmd
+8a2dff1c9648cb0ec992fd5f1fd9b4f3 *inst/doc/priorityelasticnet-vignettes.html
 52991abc72d80a8e42a0ecc2db2bcacb *man/Pen_Data.Rd
 919efc6a59d758cbdb9ecdfa7c89faf0 *man/calculate_offsets.Rd
 2093690cb08d7a755a32fe52e0b328fc *man/coef.priorityelasticnet.Rd
@@ -27,4 +27,4 @@ da9610418bb0dc418c6ffa266eff86df *man/missing.control.Rd
 18a4b5547ad311d8cdf7d3246007786e *man/priorityelasticnet.Rd
 8cc46e488d804e541eb9ad2fb49e96c1 *man/weightedThreshold.Rd
 498dab2ec12a7404db215797e93a8791 *vignettes/image/image.jpg
-f023cfa6968ed1c0e19e19ae7c1bcab8 *vignettes/priorityelasticnet-vignettes.Rmd
+1daebaa8014e77d1ede7d6217771aa11 *vignettes/priorityelasticnet-vignettes.Rmd
